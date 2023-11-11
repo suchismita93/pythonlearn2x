@@ -1,0 +1,15 @@
+#Arthmetic Opertors
+#Add+,sub-,mul*,Divi/,%modulud,**Exponentiation,//Floor division(returns the quotitent,discarding the remainder)
+
+a=int(input("Enter the value of a\n"))
+b=int(input("Enter the value of b\n"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b) #retuns the reminder(modulus)
+print(a**b)
+print(a//b)#give the qocent value
+print(a%b)
+
+
+

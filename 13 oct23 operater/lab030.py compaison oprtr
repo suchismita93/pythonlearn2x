@@ -1,0 +1,16 @@
+#comparison Opertator
+#==Equal to
+#!=NOt equal to
+# < Less than
+# > Greater than
+# <= Less than or equal to
+# >= Greater than or equal to
+x=5
+y=10
+print(x==y)#f
+print(x!=y)#T
+print(x>=y)#F
+print(x<=y)#T
+print(x<y)#T
+print(x>y)#f
+
